@@ -5,9 +5,9 @@ permalink: /about/
 
 # About
 
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. See the [respository]({{ site.repo }}) for more details.
+이 깃헙 블로그는 [docsy-jekyll](https://vsoch.github.com/docsy-jekyll/) 을 기본으로 생성되었습니다.  
+이 블로그를 만든 이유는 잊지 말아야 할 것들을 잊어가고 있기 때문입니다.  
+기억하자! 모든것들을!!!
 
 ## Support
 
