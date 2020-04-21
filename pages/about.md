@@ -11,5 +11,5 @@ permalink: /about/
 
 ## Support
 
-도움이 필요할 경우 [이슈요청](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}) 을 진행해 주세요.
+도움이 필요할 경우 [이슈요청](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}/issues/new?labels=question&title=Question:&body=Question%20on:%20https://github.com/chayoung/chayoung.github.io/tree/master/pages/about.md) 을 진행해 주세요.
 
