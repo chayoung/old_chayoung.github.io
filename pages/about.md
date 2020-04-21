@@ -11,5 +11,5 @@ permalink: /about/
 
 ## Support
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}).
+도움이 필요할 경우 [이슈요청](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}) 을 진행해 주세요.
 
