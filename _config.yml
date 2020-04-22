@@ -68,6 +68,9 @@ permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
+# comment disqus
+disqus-shortname: chayoung-1
+
 # Collections
 collections:
   docs:
