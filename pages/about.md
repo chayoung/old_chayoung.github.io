@@ -1,6 +1,8 @@
 ---
 title: About
 permalink: /about/
+tags: [about]
+comments : true
 ---
 
 # About

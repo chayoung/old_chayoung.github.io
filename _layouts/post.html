@@ -8,3 +8,8 @@ layout: page
 {{ content }}
 
 <script id="dsq-count-scr" src="//chayoung-1.disqus.com/count.js" async></script>
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
