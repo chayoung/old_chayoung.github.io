@@ -4,7 +4,6 @@ tags:
  - jekyll
  - github
 description: Getting started with Docsy Jekyll
-comments: true
 ---
 
 # Getting Started
