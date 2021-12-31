@@ -1,15 +1,24 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "BackEnd"
+      url: "docs/backend"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
+        - title: Spring Boot
+          url: "docs/backend#spring-boot"
+        - title: Spring Security
+          url: "docs/backend#spring-security"
+    - title: "FrontEnd"
+      url: "docs/frontend"
+      children:
+        - title: Vuejs
+          url: "docs/frontend#vuejs"
+        - title: React
+          url: "docs/frontend#react"
+        - title: Javascript
+          url: "docs/frontend#javascript"
+        - title: css
+          url: "docs/frontend#css"
     - title: "Extras"
       url: "docs/extras"
       children:

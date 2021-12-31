@@ -7,9 +7,19 @@ comments : true
 
 # About
 
-이 깃헙 블로그는 [docsy-jekyll](https://vsoch.github.com/docsy-jekyll/) 을 기본으로 생성되었습니다.  
-이 블로그를 만든 이유는 잊지 말아야 할 것들을 잊어가고 있기 때문입니다.  
-기억하자! 모든것들을!!!
+40대 중반 개발자입니다. <br/>
+그냥 개발이 좋습니다. <br/><br/>
+우선 틀만 만들어 둡니다. 곧 업데이트 들어갑니다. (언젠간...)
+
+```
+기록은 기억을 지배한다!!
+
+Know How 는 옛말
+Know Where!
+```
+
+
+- 이 깃헙 블로그는 [docsy-jekyll](https://vsoch.github.com/docsy-jekyll/) 을 기본으로 생성되었습니다.  
 
 ## Support
 
