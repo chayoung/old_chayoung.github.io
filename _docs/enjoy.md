@@ -1,40 +1,21 @@
 ---
-title: FrontEnd
+title: Enjoy
 tags: 
- - frontend
- - vuejs
- - react
- - javascript
- - js
- - css
- - style
-description: FrontEnd 기술에 관한 문서
+ - game
+ - enjoy
+ - diablo
+description: 요즘 즐기고 있는 것들
 ---
 
-# FrontEnd (F/E)
+# Enjoy
 
-## Vuejs
+## Diablo
 
-### 타이틀~~
+### 악사(습격확탄)
 
-blar~ blar~
+일년에 한두번 즐기는 게임... <br/><br/>
+오랜만에 하니 재밌네 ㅜ_ㅜ
 
-
-## React
-
-### 타이틀~~
-
-blar~ blar~
-
-
-## javascript
-
-### 타이틀~~
-
-blar~ blar~
-
-## css
-
-### Style
+## Diblo2 Resurrected
 
 blar~ blar~
