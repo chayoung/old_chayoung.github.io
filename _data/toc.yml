@@ -19,6 +19,11 @@
           url: "docs/frontend#javascript"
         - title: css
           url: "docs/frontend#css"
+    - title: "Enjoy"
+      url: "docs/enjoy"
+      children:
+        - title: Game
+          url: "docs/enjoy#diablo"
     - title: "Extras"
       url: "docs/extras"
       children:
