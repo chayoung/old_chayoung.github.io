@@ -18,4 +18,4 @@ description: 요즘 즐기고 있는 것들
 
 ## Diblo2 Resurrected
 
-blar~ blar~
+32렙에서 멈춰진 상태... 
