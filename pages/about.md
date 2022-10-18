@@ -5,21 +5,19 @@ tags: [about]
 comments : true
 ---
 
-# About
-
-40대 중반 개발자입니다. <br/>
-그냥 개발이 좋습니다. <br/><br/>
-우선 틀만 만들어 둡니다. 곧 업데이트 들어갑니다. (언젠간...)
-
 ```
-기록은 기억을 지배한다!!
+기록은 기억을 지배한다 :)
 
 Know How 는 옛말
 Know Where!
 ```
+# About
+끄적임 좋아하는 사람입니다. <br>
+까먹기도 잘합니다.<br>
+구현해 놓고 까먹기도 잘해서 메모하기 위해 이곳을 구성해 봅니다.
 
 
-- 이 깃헙 블로그는 [docsy-jekyll](https://vsoch.github.com/docsy-jekyll/) 을 기본으로 생성되었습니다.  
+### 이 깃헙 블로그는 [docsy-jekyll](https://vsoch.github.com/docsy-jekyll/) 을 바탕으로 생성되었습니다.  
 
 ## Support
 
